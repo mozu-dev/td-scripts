@@ -49,6 +49,7 @@ graph LR
 ## Result
 network in TouchDesigner:
 
+![network](https://github.com/mozu-dev/td-scripts/blob/main/network_to_diagram/images/network.png)
 
 diagram in Mermaid:
 ```mermaid
