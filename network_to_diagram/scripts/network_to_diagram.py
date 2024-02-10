@@ -37,7 +37,7 @@ def generate_mermaid_chart(network_data):
     return mermaid_chart
 
 
-network_path = '/project1'
+network_path = '/path/to/your/network' #ex. '/project1'
 network = op(network_path)
 
 network_data = get_network_data(network)
