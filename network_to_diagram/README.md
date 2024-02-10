@@ -14,7 +14,7 @@ Select *Python* as the Content Language in the Text DAT:
 
 ![select_python](https://github.com/mozu-dev/td-scripts/blob/main/network_to_diagram/images/select_python.png)
 
-Click the *Edit* button and paste the network_to_diagram.py script into the Text DAT:
+Click the *Edit* button and paste the [network_to_diagram.py](https://github.com/mozu-dev/td-scripts/blob/main/network_to_diagram/scripts/network_to_diagram.py) into the Text DAT:
 
 ![edit](https://github.com/mozu-dev/td-scripts/blob/main/network_to_diagram/images/edit.png)
 
@@ -25,7 +25,7 @@ network_path = '/path/to/your/network'
 ```
 
 ## Conversion
-Run the Text DAT and you will find a Mermaid diagram definition at Textport:
+Run the Text DAT and you will find a Mermaid diagram definition in the Textport:
 ```
 python >>> 
 graph LR
