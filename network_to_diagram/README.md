@@ -16,7 +16,7 @@ Select *Python* as the Content Language in the Text DAT:
 
 Click the *Edit* button and paste the network_to_diagram.py script into the Text DAT:
 
-![edit](https://github.com/mozu-dev/td-scripts/blob/main/network_to_diagram/images/put_a_text_dat.png)
+![edit](https://github.com/mozu-dev/td-scripts/blob/main/network_to_diagram/images/edit.png)
 
 Update the `network_path`:
 
