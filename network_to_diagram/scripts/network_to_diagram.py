@@ -23,7 +23,7 @@ def get_network_data(network):
 
 
 def generate_mermaid_chart(network_data):
-    mermaid_chart = "graph TD\n"
+    mermaid_chart = "graph LR\n"
 
     for node in network_data:
         mermaid_chart += f"    {node['name']}[{node['name']}]\n"
